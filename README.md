@@ -11,6 +11,10 @@ Welcome to my repository where I track my daily progress in Data Structures and 
 ## 📊 Statistics
 - **Start Date:** February 1, 2026
 - **Current College:** BK Birla Institute of Engineering and Technology (BKBIET)
+- ## 📊 Live LeetCode Progress
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Yashv-Codes&theme=dark" alt="LeetCode Stats" />
+</p>
 
 ## 🛠️ Tech Stack
 - **IDE:** Visual Studio Code
