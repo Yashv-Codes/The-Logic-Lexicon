@@ -1,11 +1,11 @@
 # 🚀 LeetCode Solutions in Java
-### Roadmap to Software Engineering @ 2028
+### Roadmap to SDE @ 2028
 
 Welcome to my repository where I track my daily progress in Data Structures and Algorithms (DSA). This repository is automatically updated using LeetHub v2.
 
 ## 📌 About This Project
 - **Primary Language:** Java ☕
-- **Goal:** To solve 500+ problems before my 7th-semester placements (August 2027).
+- **Goal:** To solve 500+ problems before my 8th-semester placements (August 2027).
 - **Focus Areas:** Arrays, Linked Lists, Recursion, and Dynamic Programming.
 
 ## 📊 Statistics
