@@ -1,25 +1,28 @@
-# 🚀 LeetCode Solutions in Java
-### Roadmap to SDE @ 2028
+# 🧠 The-Logic-Lexicon 
+> **"Weaving complex logic into efficient Java solutions."**
 
-Welcome to my repository where I track my daily progress in Data Structures and Algorithms (DSA). This repository is automatically updated using LeetHub v2.
+This repository serves as a personal archive for my journey through Data Structures and Algorithms. 
+Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 
-## 📌 About This Project
-- **Primary Language:** Java ☕
-- **Goal:** To solve 500+ problems before my 8th-semester placements (August 2027).
-- **Focus Areas:** Arrays, Linked Lists, Recursion, and Dynamic Programming.
+### 🎓 About Me
+- **College:** B.K. Birla Institute of Engineering & Technology (BKBIET), Pilani
+- **Degree:** B.Tech in Computer Science (Batch 2024 - 2028)
 
-## 📊 Statistics
-- **Start Date:** February 1, 2026
-- **Current College:** BK Birla Institute of Engineering and Technology (BKBIET)
-- ## 📊 Live LeetCode Progress
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Yashv-Codes&theme=dark" alt="LeetCode Stats" />
-</p>
+### 📅 The Journey
+- **Start Date:** February 2026 (Linked LeetHub 3.0)
+- **Major Milestone:** Starting **Sigma 11.0** on Feb 7, 2026! 🚀
 
-## 🛠️ Tech Stack
-- **IDE:** Visual Studio Code
-- **Automation:** LeetHub v2 Extension
-- **Version Control:** GitHub Desktop
+### 🚀 Goals
+- [ ] Solve 500+ problems before 2028 graduation.
+- [ ] Complete **Sigma 11.0** by Apna College.
+- [ ] Master specialized topics like Dynamic Programming and Graph Theory.
+
+### 🛠️ Tech Stack
+- **Language:** Java
+- **Tools:** LeetHub 3.0, GitHub Desktop, VS Code
+
+### 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ---
 *“Success is the sum of small efforts, repeated day in and day out.”*
