@@ -22,7 +22,8 @@ Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 - **Tools:** LeetHub 3.0, GitHub Desktop, VS Code
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashv-Codes&show_icons=true&count_private=true&cache_seconds=1800)
+
 
 ---
 *“Success is the sum of small efforts, repeated day in and day out.”*
