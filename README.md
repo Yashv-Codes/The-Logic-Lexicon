@@ -33,9 +33,14 @@ Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
