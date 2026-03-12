@@ -34,6 +34,7 @@ Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0704-binary-search](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/0704-binary-search/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -43,4 +44,8 @@ Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Yashv-Codes/The-Logic-Lexicon/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
