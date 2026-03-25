@@ -1,19 +1,12 @@
 # 🧠 The-Logic-Lexicon 
 > ** “A personal collection of Data Structures and Algorithms solutions in Java.”.**
 
-This repository serves as a personal archive for my journey through Data Structures and Algorithms. 
-Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
-
-### 🎓 About Me
-- **College:** B.K. Birla Institute of Engineering & Technology, Pilani
-- **Degree:** B.Tech in Computer Science (Batch 2024 - 2028)
-
 ### 📅 The Journey
 - **Major Milestone:** Data Structures & Algorithms using Java 🚀
 - **Approach:** Consistent problem-solving with emphasis on logic, optimization, and code readability
 
 ### 🎯 Goals
-- Solve 400+ Data Structures and Algorithms problems with clean, optimized solutions.
+- Solve Data Structures and Algorithms problems with clean, optimized solutions.
 - Build strong proficiency in core topics including Arrays, Recursion, Dynamic Programming, Trees, and Graphs.
 - Apply DSA concepts to practical coding problems and future projects.
 
