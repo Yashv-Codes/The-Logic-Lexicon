@@ -6,7 +6,7 @@
 - **Approach:** Consistent problem-solving with emphasis on logic, optimization, and code readability
 
 ### 🎯 Goals
-- Solve Data Structures and Algorithms problems with clean, optimized solutions.
+- Solve problems with clean, optimized solutions.
 - Build strong proficiency in core topics including Arrays, Recursion, Dynamic Programming, Trees, and Graphs.
 - Apply DSA concepts to practical coding problems and future projects.
 
