@@ -1,5 +1,6 @@
 # The-Logic-Lexicon 
 > ** “A personal collection of Data Structures and Algorithms solutions in Java.”.**
+---
 
 ### 📅 The Journey
 - **Major Milestone:** Data Structures & Algorithms using Java 🚀
