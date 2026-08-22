@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 - **Language:** Java
-- **Tools:** LeetHub 3.0, GitHub Desktop, VS Code
+- **Tools:** LeetCommit, GitHub Desktop, VS Code
 
 
 ---
