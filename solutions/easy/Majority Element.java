@@ -4,14 +4,14 @@
             // Link: https://leetcode.com/problems/majority-element/
 
             }
-            if(count > n/2){
-                }
-                    count++;
-                if(nums[j] == nums[i]){
-            for(int j=0; j<nums.length; j++){
-            int count = 0;
-        for(i=0; i<nums.length; i++){
-        int i;
-        int n = nums.length;
+            if(ans == nums[i]){
+                freq++;
+            }
+            else{
+                freq--;
+                ans = nums[i];
+            if(freq == 0){
+        for(int i=0; i<nums.length; i++){
+        int freq = 0 , ans = 0;
     public int majorityElement(int[] nums) {
 class Solution {
