@@ -3,7 +3,7 @@
 ---
 
 ### 📅 The Journey
-- **Major Milestone:** Data Structures & Algorithms using Java 🚀
+- **Major Milestone:** Data Structures & Algorithms using Java 
 - **Approach:** Consistent problem-solving with emphasis on logic, optimization, and code readability
 
 ### 🎯 Goals
